@@ -1,0 +1,21 @@
+.cat{
+    height: 300px; 
+    width: 300px;
+    border-color:white;
+    border-width:50px;
+    border-radius: 50%;
+}
+.font{
+    font-family: cursive;
+}
+.block{
+    display: block;
+}
+#cats{
+    
+    text-align: center;
+    
+
+    
+    margin: 50px;
+}
